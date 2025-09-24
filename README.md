@@ -16,11 +16,13 @@ Ramos, Alfert Jr.
 
 Dingal, Jannelle
 
+
 ***Frontend  Developer***
 
 Oñez, Milalyn
 
 Dingal, Jannelle 
+
 
 ***Documenter***
 
