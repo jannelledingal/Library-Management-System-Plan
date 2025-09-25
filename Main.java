@@ -23,14 +23,7 @@ import javax.swing.JTextField;
 
 
 public class Main {
-
-
-
-
-
 static JFrame frame = new JFrame("Log IN");
-
-
 
 public static void main(String[] args) {
 
@@ -242,11 +235,6 @@ frameUser.add(Cat);
 
 
 
-//Buttons
-
-
-
-
 
 
 
@@ -267,14 +255,8 @@ frameUser.getContentPane().setBackground(new java.awt.Color(78, 215, 241));
 frameUser.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
 
 
-
-
-
-
-
 }
 
 
 
 }
-
